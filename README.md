@@ -1,6 +1,10 @@
-# multiple-gestures-tensorflowjs
+# Multiple Gestures with Tensorflowjs
 
-Projeto de estudo para entender como funciona o tensorflowjs para ler múltiplos gestos
+Projeto de estudo para entender como funciona o tensorflowjs para ler múltiplos gestos.
+
+## Live demo
+
+- Projeto final ([clique aqui](https://douglasz.github.io/multiple-gestures-tensorflowjs/))
 
 ## References:
 
